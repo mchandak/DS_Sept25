@@ -8,7 +8,8 @@ if (marks>=50):
     msg = 'Congratulations !!'
     print(rslt+ ' - ' + msg)
 ##################  
-marks = 40
+
+marks = 65
 
 if (marks>=50):
     rslt='Pass' 
@@ -58,8 +59,8 @@ print(disc_amt)
 #####################
 
 #Nested if
-amount = 1000
-Ord_day = "Mon"
+amount = 3000
+Ord_day = "Tue"
 disc_amt =0
 if (amount>=2000):
     if (Ord_day == "Mon"):
