@@ -1,0 +1,391 @@
+Region,Product,Subsidiary,Stores,Sales,Inventory,Returns
+Africa,Boot,Addis Ababa,12,29761,191821,769
+Africa,Men's Casual,Addis Ababa,4,67242,118036,2284
+Africa,Men's Dress,Addis Ababa,7,76793,136273,2433
+Africa,Sandal,Addis Ababa,10,62819,204284,1861
+Africa,Slipper,Addis Ababa,14,68641,279795,1771
+Africa,Sport Shoe,Addis Ababa,4,1690,16634,79
+Africa,Women's Casual,Addis Ababa,2,51541,98641,940
+Africa,Women's Dress,Addis Ababa,12,108942,311017,3233
+Africa,Boot,Algiers,21,21297,73737,710
+Africa,Men's Casual,Algiers,4,63206,100982,2221
+Africa,Men's Dress,Algiers,13,123743,428575,3621
+Africa,Sandal,Algiers,25,29198,84447,1530
+Africa,Slipper,Algiers,17,64891,248198,1823
+Africa,Sport Shoe,Algiers,9,2617,9372,168
+Africa,Women's Dress,Algiers,12,90648,266805,2690
+Africa,Boot,Cairo,20,4846,18965,229
+Africa,Men's Casual,Cairo,25,360209,1063251,9424
+Africa,Men's Dress,Cairo,5,4051,45962,97
+Africa,Sandal,Cairo,9,10532,50430,598
+Africa,Slipper,Cairo,9,13732,54117,1216
+Africa,Sport Shoe,Cairo,3,2259,20815,44
+Africa,Women's Casual,Cairo,14,328474,940851,10124
+Africa,Women's Dress,Cairo,3,14095,51145,745
+Africa,Boot,Johannesburg,14,8365,33011,483
+Africa,Sandal,Johannesburg,13,17337,63003,809
+Africa,Slipper,Johannesburg,12,39452,130025,1565
+Africa,Sport Shoe,Johannesburg,8,5172,29368,139
+Africa,Women's Dress,Johannesburg,4,42682,120127,966
+Africa,Boot,Khartoum,24,19282,105370,700
+Africa,Men's Casual,Khartoum,1,9244,16230,478
+Africa,Men's Dress,Khartoum,3,18053,51132,1177
+Africa,Sandal,Khartoum,18,26427,81825,1281
+Africa,Slipper,Khartoum,11,43452,143015,1573
+Africa,Sport Shoe,Khartoum,7,2521,27041,84
+Africa,Women's Casual,Khartoum,1,19582,30727,384
+Africa,Women's Dress,Khartoum,6,48031,132679,1374
+Africa,Boot,Kinshasa,16,13921,70736,553
+Africa,Men's Dress,Kinshasa,5,57691,95663,1699
+Africa,Sandal,Kinshasa,10,16662,104438,611
+Africa,Slipper,Kinshasa,11,52807,183937,1440
+Africa,Sport Shoe,Kinshasa,10,4888,27998,162
+Africa,Women's Casual,Kinshasa,1,17919,21363,400
+Africa,Women's Dress,Kinshasa,3,32928,87149,717
+Africa,Boot,Luanda,8,6081,51572,325
+Africa,Men's Casual,Luanda,3,62893,149864,1701
+Africa,Men's Dress,Luanda,2,29582,67247,705
+Africa,Sandal,Luanda,9,11145,19900,657
+Africa,Slipper,Luanda,5,19146,97060,701
+Africa,Sport Shoe,Luanda,2,801,3247,29
+Africa,Women's Dress,Luanda,1,8467,47387,210
+Africa,Boot,Nairobi,25,16282,66017,844
+Africa,Men's Dress,Nairobi,1,8587,20877,363
+Africa,Sandal,Nairobi,19,16289,47406,1175
+Africa,Slipper,Nairobi,12,34955,87438,1320
+Africa,Sport Shoe,Nairobi,10,2202,11328,174
+Africa,Women's Dress,Nairobi,3,28515,62740,678
+Asia,Boot,Bangkok,1,1996,9576,80
+Asia,Men's Dress,Bangkok,1,3033,20831,52
+Asia,Sandal,Bangkok,1,3230,15087,120
+Asia,Slipper,Bangkok,1,3019,16075,127
+Asia,Women's Casual,Bangkok,1,5389,16251,185
+Asia,Boot,Seoul,17,60712,160589,1296
+Asia,Men's Casual,Seoul,1,11754,2176,833
+Asia,Men's Dress,Seoul,7,116333,251803,2443
+Asia,Sandal,Seoul,3,4978,21483,105
+Asia,Slipper,Seoul,21,149013,469007,2941
+Asia,Sport Shoe,Seoul,1,937,455,10
+Asia,Women's Casual,Seoul,2,20448,36576,790
+Asia,Women's Dress,Seoul,7,78234,140628,1891
+Asia,Sport Shoe,Tokyo,1,1155,15602,22
+Canada,Boot,Calgary,8,17720,63280,472
+Canada,Men's Dress,Calgary,1,12775,39663,353
+Canada,Sandal,Calgary,7,2886,15838,147
+Canada,Slipper,Calgary,2,5676,48061,253
+Canada,Sport Shoe,Calgary,9,9745,38059,264
+Canada,Women's Dress,Calgary,2,12601,54677,488
+Canada,Boot,Montreal,25,40213,240132,1472
+Canada,Men's Casual,Montreal,3,53929,187155,2241
+Canada,Men's Dress,Montreal,11,112009,355170,3713
+Canada,Sandal,Montreal,7,3002,18382,122
+Canada,Slipper,Montreal,24,135305,500053,3395
+Canada,Sport Shoe,Montreal,31,29435,178128,1129
+Canada,Women's Casual,Montreal,2,24497,34808,832
+Canada,Women's Dress,Montreal,12,132638,483637,2880
+Canada,Boot,Ottawa,5,7892,28162,377
+Canada,Men's Casual,Ottawa,1,19210,29249,578
+Canada,Sandal,Ottawa,2,2600,1727,27
+Canada,Slipper,Ottawa,10,30905,89576,1397
+Canada,Sport Shoe,Ottawa,6,2598,15007,204
+Canada,Women's Casual,Ottawa,1,18712,46064,427
+Canada,Women's Dress,Ottawa,4,33824,84378,939
+Canada,Boot,Toronto,16,33291,149118,994
+Canada,Men's Casual,Toronto,2,15403,20811,1401
+Canada,Men's Dress,Toronto,2,37519,84690,806
+Canada,Sandal,Toronto,2,1190,6763,38
+Canada,Slipper,Toronto,14,80352,302074,1908
+Canada,Sport Shoe,Toronto,29,34585,164113,913
+Canada,Women's Casual,Toronto,4,63492,149239,1700
+Canada,Women's Dress,Toronto,7,53940,165711,1967
+Canada,Boot,Vancouver,31,286497,882080,9160
+Canada,Men's Casual,Vancouver,25,353361,671837,20470
+Canada,Sandal,Vancouver,15,5120,56325,294
+Canada,Sport Shoe,Vancouver,26,64026,370388,2297
+Canada,Women's Casual,Vancouver,20,304106,665323,8278
+Central America/Caribbean,Boot,Kingston,33,102372,393376,4454
+Central America/Caribbean,Men's Dress,Kingston,23,270863,618703,7447
+Central America/Caribbean,Sandal,Kingston,15,200156,624163,8365
+Central America/Caribbean,Slipper,Kingston,37,476638,1555357,15713
+Central America/Caribbean,Sport Shoe,Kingston,23,18177,86162,944
+Central America/Caribbean,Women's Casual,Kingston,18,215069,275321,7361
+Central America/Caribbean,Women's Dress,Kingston,41,375817,1147300,11656
+Central America/Caribbean,Boot,Managua,17,34660,162033,1775
+Central America/Caribbean,Men's Casual,Managua,3,69276,79666,1861
+Central America/Caribbean,Men's Dress,Managua,4,35393,72044,1456
+Central America/Caribbean,Sandal,Managua,37,65478,261456,2524
+Central America/Caribbean,Slipper,Managua,25,92539,289520,2800
+Central America/Caribbean,Sport Shoe,Managua,14,5655,17155,269
+Central America/Caribbean,Women's Casual,Managua,3,48567,118849,1318
+Central America/Caribbean,Women's Dress,Managua,10,63238,163951,2308
+Central America/Caribbean,Boot,Mexico City,21,20819,79994,814
+Central America/Caribbean,Men's Casual,Mexico City,3,66216,70123,2198
+Central America/Caribbean,Men's Dress,Mexico City,3,30157,78950,1012
+Central America/Caribbean,Sandal,Mexico City,33,52233,175201,2127
+Central America/Caribbean,Slipper,Mexico City,31,96113,340122,4028
+Central America/Caribbean,Sport Shoe,Mexico City,3,2196,23183,59
+Central America/Caribbean,Women's Casual,Mexico City,2,31301,91171,973
+Central America/Caribbean,Women's Dress,Mexico City,7,69553,257437,1614
+Central America/Caribbean,Boot,San Juan,31,32892,135309,1504
+Central America/Caribbean,Men's Casual,San Juan,2,44909,182986,1355
+Central America/Caribbean,Men's Dress,San Juan,8,68482,137355,2756
+Central America/Caribbean,Sandal,San Juan,27,60515,210250,3287
+Central America/Caribbean,Slipper,San Juan,7,217891,707919,6825
+Central America/Caribbean,Sport Shoe,San Juan,4,936,4546,74
+Central America/Caribbean,Women's Casual,San Juan,10,104420,318207,4240
+Central America/Caribbean,Women's Dress,San Juan,16,109110,336513,3776
+Eastern Europe,Boot,Budapest,22,74102,317515,3341
+Eastern Europe,Men's Casual,Budapest,6,66936,87655,3944
+Eastern Europe,Men's Dress,Budapest,3,37499,147214,930
+Eastern Europe,Sandal,Budapest,5,1814,4894,96
+Eastern Europe,Slipper,Budapest,17,111816,453821,4070
+Eastern Europe,Sport Shoe,Budapest,23,16460,79416,790
+Eastern Europe,Women's Casual,Budapest,3,49880,137093,1528
+Eastern Europe,Women's Dress,Budapest,6,52022,144360,1452
+Eastern Europe,Boot,Moscow,23,67476,329604,3142
+Eastern Europe,Men's Casual,Moscow,3,55094,156554,1895
+Eastern Europe,Men's Dress,Moscow,11,113119,302236,4004
+Eastern Europe,Slipper,Moscow,11,127033,520271,3983
+Eastern Europe,Sport Shoe,Moscow,23,21464,110822,859
+Eastern Europe,Women's Casual,Moscow,6,104119,211220,2325
+Eastern Europe,Women's Dress,Moscow,10,72671,196973,2227
+Eastern Europe,Boot,Prague,11,86215,341326,3555
+Eastern Europe,Men's Casual,Prague,12,150273,336151,7455
+Eastern Europe,Men's Dress,Prague,9,102448,231514,2492
+Eastern Europe,Sandal,Prague,2,712,3384,48
+Eastern Europe,Slipper,Prague,29,128971,585026,5346
+Eastern Europe,Sport Shoe,Prague,18,23708,117976,623
+Eastern Europe,Women's Casual,Prague,1,15897,33800,414
+Eastern Europe,Women's Dress,Prague,14,128497,425237,3434
+Eastern Europe,Boot,Warsaw,26,78992,363358,3246
+Eastern Europe,Men's Casual,Warsaw,15,304093,729044,9364
+Eastern Europe,Men's Dress,Warsaw,10,82695,205338,2862
+Eastern Europe,Sandal,Warsaw,3,1190,960,57
+Eastern Europe,Slipper,Warsaw,16,141878,712365,6336
+Eastern Europe,Sport Shoe,Warsaw,19,29570,139313,1053
+Eastern Europe,Women's Casual,Warsaw,3,39360,102641,1365
+Eastern Europe,Women's Dress,Warsaw,19,108936,425390,4465
+Middle East,Boot,Al-Khobar,10,15062,44658,765
+Middle East,Men's Casual,Al-Khobar,24,340201,616745,13251
+Middle East,Men's Dress,Al-Khobar,22,261445,711246,6979
+Middle East,Sandal,Al-Khobar,2,1380,13343,62
+Middle East,Slipper,Al-Khobar,26,66796,201779,3052
+Middle East,Sport Shoe,Al-Khobar,2,449,1836,43
+Middle East,Women's Casual,Al-Khobar,13,226514,447377,5966
+Middle East,Women's Dress,Al-Khobar,11,241820,611686,6167
+Middle East,Boot,Dubai,15,90972,403259,4049
+Middle East,Men's Casual,Dubai,29,419336,868115,17552
+Middle East,Men's Dress,Dubai,25,324312,746970,8159
+Middle East,Sandal,Dubai,24,17492,59985,734
+Middle East,Slipper,Dubai,17,387680,1238698,12768
+Middle East,Sport Shoe,Dubai,5,1487,11432,70
+Middle East,Women's Casual,Dubai,19,233374,416012,8102
+Middle East,Women's Dress,Dubai,19,435891,1292400,12999
+Middle East,Boot,Tel Aviv,20,65248,222165,2320
+Middle East,Men's Dress,Tel Aviv,24,253814,631479,8727
+Middle East,Sandal,Tel Aviv,17,16314,71094,574
+Middle East,Slipper,Tel Aviv,21,208004,639427,7738
+Middle East,Sport Shoe,Tel Aviv,4,2071,15121,47
+Middle East,Women's Casual,Tel Aviv,19,288904,790386,12000
+Middle East,Women's Dress,Tel Aviv,18,434496,1272531,17394
+Pacific,Boot,Auckland,12,20141,97919,962
+Pacific,Men's Dress,Auckland,1,4892,538,325
+Pacific,Sandal,Auckland,1,325,23897,10
+Pacific,Slipper,Auckland,11,33000,136625,1321
+Pacific,Sport Shoe,Auckland,5,5117,35246,211
+Pacific,Women's Casual,Auckland,1,18189,15241,421
+Pacific,Women's Dress,Auckland,6,42760,158688,1278
+Pacific,Boot,Canberra,21,32640,188437,1237
+Pacific,Men's Casual,Canberra,1,24733,45172,614
+Pacific,Men's Dress,Canberra,1,4231,346780,350
+Pacific,Sandal,Canberra,1,1093,8711,21
+Pacific,Slipper,Canberra,10,44121,155948,1252
+Pacific,Sport Shoe,Canberra,10,12211,80393,336
+Pacific,Women's Casual,Canberra,1,15032,42469,409
+Pacific,Women's Dress,Canberra,5,21486,58824,1096
+Pacific,Boot,Jakarta,6,11975,50645,523
+Pacific,Men's Casual,Jakarta,12,373908,1139026,10960
+Pacific,Men's Dress,Jakarta,22,186631,559904,6447
+Pacific,Sandal,Jakarta,31,24940,134557,1112
+Pacific,Slipper,Jakarta,7,22060,82215,861
+Pacific,Sport Shoe,Jakarta,4,6110,26124,164
+Pacific,Women's Casual,Jakarta,1,18761,27749,468
+Pacific,Women's Dress,Jakarta,1,4659,19899,255
+Pacific,Boot,Kuala Lumpur,15,25796,143063,1110
+Pacific,Men's Casual,Kuala Lumpur,6,106657,310404,4092
+Pacific,Men's Dress,Kuala Lumpur,7,55667,161328,2288
+Pacific,Sandal,Kuala Lumpur,7,4130,24936,213
+Pacific,Slipper,Kuala Lumpur,17,83212,382786,2568
+Pacific,Sport Shoe,Kuala Lumpur,2,450,8136,42
+Pacific,Women's Casual,Kuala Lumpur,2,36110,91052,995
+Pacific,Women's Dress,Kuala Lumpur,8,61108,245543,1977
+Pacific,Boot,Manila,21,31503,110179,1449
+Pacific,Men's Casual,Manila,7,128309,264891,5285
+Pacific,Men's Dress,Manila,14,144151,464158,4414
+Pacific,Sandal,Manila,18,15759,65223,620
+Pacific,Slipper,Manila,14,171735,708799,5544
+Pacific,Sport Shoe,Manila,8,2281,15955,144
+Pacific,Women's Casual,Manila,9,131794,265543,4241
+Pacific,Women's Dress,Manila,12,229372,818328,7265
+Pacific,Boot,Singapore,2,1520,374,120
+Pacific,Men's Casual,Singapore,1,28761,89599,690
+Pacific,Men's Dress,Singapore,3,30619,103585,1148
+Pacific,Sandal,Singapore,1,2177,5897,35
+Pacific,Slipper,Singapore,6,36612,139288,843
+Pacific,Women's Dress,Singapore,5,40056,117217,1413
+South America,Boot,Bogota,19,15312,35805,1229
+South America,Men's Casual,Bogota,2,20835,43155,1136
+South America,Men's Dress,Bogota,4,37187,62770,1424
+South America,Sandal,Bogota,16,22712,62856,1292
+South America,Slipper,Bogota,15,33723,88411,2033
+South America,Sport Shoe,Bogota,19,4729,11597,333
+South America,Women's Dress,Bogota,14,71736,117761,2646
+South America,Boot,Buenos Aires,16,17027,39291,1073
+South America,Men's Casual,Buenos Aires,1,16019,15889,498
+South America,Men's Dress,Buenos Aires,1,14437,29932,354
+South America,Sandal,Buenos Aires,21,18765,75358,604
+South America,Slipper,Buenos Aires,8,11759,23822,939
+South America,Sport Shoe,Buenos Aires,14,3545,6103,229
+South America,Women's Casual,Buenos Aires,1,15470,19479,382
+South America,Women's Dress,Buenos Aires,4,21261,31081,964
+South America,Boot,Caracas,13,63697,307509,2731
+South America,Men's Casual,Caracas,14,245757,445579,7918
+South America,Men's Dress,Caracas,15,135371,275526,4710
+South America,Sandal,Caracas,29,22973,118535,1096
+South America,Slipper,Caracas,19,132853,457658,4609
+South America,Sport Shoe,Caracas,4,1716,12360,79
+South America,Women's Casual,Caracas,3,42654,68096,1525
+South America,Women's Dress,Caracas,26,144302,454123,5274
+South America,Boot,La Paz,21,36309,100618,2925
+South America,Men's Casual,La Paz,6,124203,184499,4046
+South America,Men's Dress,La Paz,11,131079,173417,3698
+South America,Sandal,La Paz,31,27728,81525,945
+South America,Slipper,La Paz,18,125763,338758,6501
+South America,Sport Shoe,La Paz,15,8095,25212,254
+South America,Women's Casual,La Paz,6,48260,138402,2547
+South America,Women's Dress,La Paz,8,29069,73048,1648
+South America,Boot,Montevideo,15,53703,150601,3226
+South America,Men's Casual,Montevideo,3,52968,76200,1811
+South America,Men's Dress,Montevideo,8,45566,125584,2708
+South America,Sandal,Montevideo,12,27742,90767,1913
+South America,Slipper,Montevideo,28,80525,236273,3419
+South America,Sport Shoe,Montevideo,22,8365,39256,361
+South America,Women's Casual,Montevideo,3,28343,66442,1374
+South America,Women's Dress,Montevideo,5,21434,63913,1213
+South America,Boot,Santiago,14,14907,39222,939
+South America,Men's Dress,Santiago,3,23117,44160,1026
+South America,Sandal,Santiago,22,12343,35668,631
+South America,Slipper,Santiago,9,23260,46106,1224
+South America,Sport Shoe,Santiago,6,4184,19113,112
+South America,Women's Casual,Santiago,1,5709,6972,506
+South America,Women's Dress,Santiago,3,21436,45398,759
+South America,Boot,Sao Paulo,12,44720,173578,2471
+South America,Men's Casual,Sao Paulo,5,85168,107413,3120
+South America,Men's Dress,Sao Paulo,5,38912,89758,1740
+South America,Sandal,Sao Paulo,18,33662,121645,1682
+South America,Slipper,Sao Paulo,21,54768,217967,2675
+South America,Sport Shoe,Sao Paulo,7,2427,10132,147
+South America,Women's Casual,Sao Paulo,3,38791,117081,1438
+South America,Women's Dress,Sao Paulo,13,68387,144670,2714
+United States,Boot,Chicago,16,82483,305061,3735
+United States,Men's Casual,Chicago,26,408978,831672,17907
+United States,Men's Dress,Chicago,28,261607,824485,8915
+United States,Sandal,Chicago,2,601,17121,35
+United States,Slipper,Chicago,13,329235,1049530,10654
+United States,Sport Shoe,Chicago,17,17347,74605,684
+United States,Women's Casual,Chicago,11,172021,474524,5399
+United States,Women's Dress,Chicago,37,293313,754157,10194
+United States,Boot,Los Angeles,14,85932,347252,3283
+United States,Men's Casual,Los Angeles,9,177010,401199,6336
+United States,Men's Dress,Los Angeles,15,147670,348869,4962
+United States,Sandal,Los Angeles,2,737,20838,38
+United States,Slipper,Los Angeles,11,98866,330743,3457
+United States,Sport Shoe,Los Angeles,19,16307,98221,601
+United States,Women's Casual,Los Angeles,6,62661,231285,2346
+United States,Women's Dress,Los Angeles,16,148129,452383,4289
+United States,Boot,Minneapolis,16,111940,615489,4475
+United States,Men's Casual,Minneapolis,16,263712,564741,9991
+United States,Men's Dress,Minneapolis,22,235842,623645,7344
+United States,Sandal,Minneapolis,8,3551,32907,161
+United States,Slipper,Minneapolis,16,131813,487233,4833
+United States,Sport Shoe,Minneapolis,29,18151,116192,1009
+United States,Women's Casual,Minneapolis,7,110760,287412,3440
+United States,Women's Dress,Minneapolis,27,224168,760977,5820
+United States,Boot,New York,18,97151,495479,3983
+United States,Men's Casual,New York,20,456985,890096,13453
+United States,Men's Dress,New York,18,191755,658134,5399
+United States,Sandal,New York,1,554,5060,23
+United States,Slipper,New York,24,252758,1059333,8503
+United States,Sport Shoe,New York,23,22190,141140,847
+United States,Women's Casual,New York,10,178842,438035,4236
+United States,Women's Dress,New York,17,288972,1129697,10257
+United States,Boot,Seattle,15,70790,226678,3039
+United States,Men's Casual,Seattle,6,65842,112538,3395
+United States,Men's Dress,Seattle,10,132397,274310,3153
+United States,Sandal,Seattle,10,6596,18768,181
+United States,Slipper,Seattle,10,155255,553502,5277
+United States,Sport Shoe,Seattle,29,30408,108266,1021
+United States,Women's Casual,Seattle,2,17252,28513,790
+United States,Women's Dress,Seattle,21,133405,392307,4037
+Western Europe,Boot,Copenhagen,2,1663,4657,129
+Western Europe,Men's Casual,Copenhagen,1,38492,90672,767
+Western Europe,Men's Dress,Copenhagen,2,12415,36074,686
+Western Europe,Slipper,Copenhagen,4,15908,69133,594
+Western Europe,Sport Shoe,Copenhagen,1,1927,17683,31
+Western Europe,Sport Shoe,Copenhagen,13,101922,327742,4204
+Western Europe,Women's Casual,Copenhagen,26,502636,1110412,17448
+Western Europe,Women's Dress,Copenhagen,3,18153,62048,664
+Western Europe,Boot,Geneva,22,41341,171030,1560
+Western Europe,Men's Casual,Geneva,4,71618,138897,2484
+Western Europe,Men's Dress,Geneva,3,26888,60544,1140
+Western Europe,Sandal,Geneva,3,736,3529,51
+Western Europe,Slipper,Geneva,27,109808,440623,3311
+Western Europe,Sport Shoe,Geneva,17,15951,119953,592
+Western Europe,Women's Casual,Geneva,5,69470,226247,2114
+Western Europe,Women's Dress,Geneva,14,111396,339166,3036
+Western Europe,Boot,Heidelberg,14,65610,301779,2829
+Western Europe,Men's Casual,Heidelberg,12,175694,595118,9845
+Western Europe,Men's Dress,Heidelberg,16,161679,468267,5373
+Western Europe,Sandal,Heidelberg,3,977,4618,62
+Western Europe,Slipper,Heidelberg,17,243342,928112,7940
+Western Europe,Sport Shoe,Heidelberg,11,38961,230819,1316
+Western Europe,Women's Casual,Heidelberg,9,141287,424473,3861
+Western Europe,Women's Dress,Heidelberg,23,140189,403156,4812
+Western Europe,Boot,Lisbon,18,76349,341911,3290
+Western Europe,Men's Casual,Lisbon,18,311341,502959,12247
+Western Europe,Men's Dress,Lisbon,8,108906,328209,2665
+Western Europe,Sandal,Lisbon,4,1650,24253,64
+Western Europe,Slipper,Lisbon,12,170694,865325,5925
+Western Europe,Sport Shoe,Lisbon,19,19686,118262,824
+Western Europe,Women's Casual,Lisbon,3,41939,112366,1266
+Western Europe,Women's Dress,Lisbon,17,167780,538624,4150
+Western Europe,Boot,London,31,54449,289527,2321
+Western Europe,Men's Casual,London,13,151402,401374,7159
+Western Europe,Men's Dress,London,13,151458,446963,4870
+Western Europe,Sandal,London,2,5217,11111,24
+Western Europe,Slipper,London,14,172002,625925,5620
+Western Europe,Sport Shoe,London,10,9165,42239,354
+Western Europe,Women's Casual,London,5,68962,162447,1978
+Western Europe,Women's Dress,London,25,149354,527226,5084
+Western Europe,Boot,Madrid,1,1179,1027,93
+Western Europe,Men's Casual,Madrid,4,71014,59011,3784
+Western Europe,Men's Dress,Madrid,4,54791,181739,1468
+Western Europe,Slipper,Madrid,4,12127,10234,500
+Western Europe,Women's Casual,Madrid,3,50146,113870,1216
+Western Europe,Women's Dress,Madrid,1,11385,59192,273
+Western Europe,Boot,Paris,15,19196,41506,1006
+Western Europe,Men's Casual,Paris,5,89416,156288,3863
+Western Europe,Men's Dress,Paris,16,203532,421109,5722
+Western Europe,Sandal,Paris,3,1520,23816,60
+Western Europe,Slipper,Paris,19,90975,251927,2372
+Western Europe,Sport Shoe,Paris,4,3449,28588,186
+Western Europe,Women's Casual,Paris,5,91243,184365,2388
+Western Europe,Women's Dress,Paris,19,122546,362247,3727
+Western Europe,Boot,Rome,23,36244,209271,1455
+Western Europe,Men's Casual,Rome,2,37271,91670,1761
+Western Europe,Men's Dress,Rome,2,28249,69058,651
+Western Europe,Sandal,Rome,3,1249,4611,48
+Western Europe,Slipper,Rome,13,42442,132283,1829
+Western Europe,Sport Shoe,Rome,14,9969,74848,549
+Western Europe,Women's Casual,Rome,2,19964,62256,954
+Western Europe,Women's Dress,Rome,16,106676,389861,3160
