@@ -21,9 +21,11 @@ for val in ord_amount:
 #######
 
 # Using index 
+#n= len(ord_amount)
+
 for i in range(0,4):
     print("Order Amount :" ,ord_amount[i])
-  
+    print("Index:" , i)
     
   
 #######################################
@@ -43,8 +45,13 @@ while(x <3):
 ######################################
 #Defining function (user defined function -udf)
 
+a = 10                  
+b = 20
+c= a+b
+c
+
 def myfunction():
-    a = 10                  #Local variable
+    a = 10                  
     b = 20
     c= a+b
     return c
@@ -64,10 +71,11 @@ def ExamResult(marks):
     else:
         rslt='Fail'
         msg = 'Better luck next time'
-    print(rslt+ ' - ' + msg)
+    output = rslt+ ' - ' + msg
+    return(output)
 
 # Calling function
-mark=60
+mark=40
 ExamResult(mark)
 
 #Functions and for loop
