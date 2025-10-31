@@ -61,10 +61,10 @@ if submitted:
     pred = model1.predict(input_df)[0]           # 0 or 1
 
     st.subheader("Prediction Result")
-    if pred == 1:
+    if pred == 'Y':
         st.success(f" Loan Approved — Probability: {proba*100:.2f}%")
     else:
-        st.error(f" Loan Approved — Probability: {proba*100:.2f}%")
+        st.error(f" Loan Not Approved — Probability: {proba*100:.2f}%")
 
     # Optional: show model confidence & raw logits
     st.write("Details:")
